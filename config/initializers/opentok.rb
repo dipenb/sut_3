@@ -5,8 +5,10 @@
 # --------------------------------------------
               # TokBox Constants - Production
 opentok = { 
-          :api_key => 177891, 
-          :api_secret => "fe79f53b71d2e7e4b89eafd06d1d45bd8adbb421",
+#          :api_key => 177891, 
+#          :api_secret => "fe79f53b71d2e7e4b89eafd06d1d45bd8adbb421",
+          :api_key => 635072, 
+          :api_secret => "8f1a7e23d3a30c3a8717c88532208717aa76322e",
           :api_url => "https://api.opentok.com/hl",
           :javascript_source => "http://static.opentok.com/v0.91/js/TB.min.js"
           }
